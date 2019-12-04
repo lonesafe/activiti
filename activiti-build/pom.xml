@@ -4,14 +4,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.activiti</groupId>
-    <version>7.1.0-SNAPSHOT</version>
+    <version>7.1.140</version>
     <artifactId>activiti-aggregator</artifactId>
     <relativePath>../</relativePath>
   </parent>
 
   <groupId>org.activiti.build</groupId>
   <artifactId>activiti-parent</artifactId>
-  <version>7.1.0-SNAPSHOT</version>
+  <version>7.1.140</version>
   <packaging>pom</packaging>
   <name>Activiti :: Parent</name>
   <description>${project.name}</description>
