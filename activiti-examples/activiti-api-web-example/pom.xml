@@ -21,7 +21,7 @@
 
   <groupId>org.activiti</groupId>
   <artifactId>activiti-api-web-examples</artifactId>
-  <version>7.1.0-SNAPSHOT</version>
+  <version>7.1.138</version>
   <packaging>jar</packaging>
 
   <name>Activiti API Web Examples</name>
@@ -30,7 +30,7 @@
   <parent>
     <groupId>org.activiti.examples</groupId>
     <artifactId>activiti-examples-parent</artifactId>
-    <version>7.1.0-SNAPSHOT</version>
+    <version>7.1.138</version>
     <relativePath>../</relativePath>
   </parent>
 
