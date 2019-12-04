@@ -5,14 +5,14 @@
   <parent>
     <groupId>org.activiti.build</groupId>
     <artifactId>activiti-parent</artifactId>
-    <version>7.1.0-SNAPSHOT</version>
+    <version>7.1.136</version>
     <relativePath>../activiti-build</relativePath>
   </parent>
   <groupId>org.activiti</groupId>
   <artifactId>activiti-root</artifactId>
   <packaging>pom</packaging>
   <name>Activiti Core :: Parent</name>
-  <version>7.1.0-SNAPSHOT</version>
+  <version>7.1.136</version>
   <description>Activiti Core :: Parent</description>
   <url>http://activiti.org</url>
   <properties>
